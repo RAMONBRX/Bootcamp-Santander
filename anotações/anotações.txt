@@ -1,0 +1,6 @@
+comandos:
+git init
+git status
+git commit -m
+cd ..
+cd <diretorio>
